@@ -1,12 +1,21 @@
-# CallOne indir · Windows ve Android arama sırası
+# FollowDial
 
-CallOne, Windows bilgisayarla Android telefonu Bluetooth üzerinden eşleştirerek SIM hattından sırayla arama yapmanızı sağlar. Windows uygulamasında CSV ile arama listesi yükleyebilir, görüşme notlarını ve geri aramaları takip edebilirsiniz.
+Windows ve Android için Bluetooth üzerinden arama sırası, favoriler ve geri arama takibi.
 
-## Güncel sürümü indir
+## Ana proje ve indirme sayfası
 
-- [Windows için CallOne.exe](https://github.com/Feyyazatl/CallOne-Indir/releases/latest/download/CallOne.exe)
-- [Android için CallOne.apk](https://github.com/Feyyazatl/CallOne-Indir/releases/latest/download/CallOne.apk)
-- [Windows ve Android dağıtım paketi](https://github.com/Feyyazatl/CallOne-Indir/releases/latest/download/CallOne-Dagitim.zip)
-- [Son sürüm ve sürüm notları](https://github.com/Feyyazatl/CallOne-Indir/releases/latest)
+**[FollowDial resmi GitHub sayfası](https://github.com/Feyyazatl/FollowDial)**
 
-Telefon için Android 12 veya üzeri gerekir. Windows ile telefonu Bluetooth ayarlarında eşleştirin. Telefonda CallOne içinden bilgisayarı seçin. Windows panelinde **Android Bluetooth** modunu kullanın.
+- [Windows uygulamasını indir](https://github.com/Feyyazatl/FollowDial/releases/latest/download/FollowDial.exe)
+- [Android uygulamasını indir](https://github.com/Feyyazatl/FollowDial/releases/latest/download/FollowDial.apk)
+- [Windows ve Android paketini indir](https://github.com/Feyyazatl/FollowDial/releases/latest/download/FollowDial-Dagitim.zip)
+
+FollowDial, Windows bilgisayarınız ve Android telefonunuz arasında Bluetooth bağlantısıyla SIM hattından sırayla arama yapmanızı sağlar. CSV listeleri, görüşme notları, favoriler, randevular ve planlı geri aramalar desteklenir. Açık ve koyu tema seçilebilir.
+
+Android 12 veya üzeri gerekir. Telefonu ve bilgisayarı Bluetooth ayarlarında eşleştirin; Windows panelinde **Android Bluetooth** modunu kullanın.
+
+### Eski kurulumların güncelleme kanalı
+
+Bu deponun eski adresi ve dosya adları, kurulu uygulamaların ve mevcut QR kodlarının güncellemelerini almaya devam edebilmesi için korunur. Yeni kullanıcılara yukarıdaki **FollowDial** sayfasını paylaşın.
+
+Bu depo dağıtım içindir; uygulamanın kaynak kodunu veya kullanıcı kayıtlarını içermez.
